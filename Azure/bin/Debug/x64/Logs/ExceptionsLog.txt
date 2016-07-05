@@ -1,0 +1,90 @@
+
+SYSTEM CRITICAL EXCEPTION: System.IO.FileNotFoundException: Kan bestand of assembly MySql.Data, Version=6.9.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d of een van de afhankelijkheden hiervan niet laden. Het systeem kan het opgegeven bestand niet vinden.
+Bestandsnaam: MySql.Data, Version=6.9.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d
+   bij Azure.Azure.Initialize()
+   bij Azure.Program.InitEnvironment() in c:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Emulator\Program.cs:regel 75
+   bij Azure.Program.StartEverything() in c:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Emulator\Program.cs:regel 171
+   bij Azure.Program.Main(String[] args) in c:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Emulator\Program.cs:regel 44
+   bij System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   bij System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   bij Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   bij System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   bij System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   bij System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   bij System.Threading.ThreadHelper.ThreadStart()
+
+=== Statusinformatie voorafgaand aan binding ===
+LOG: DisplayName = MySql.Data, Version=6.9.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d
+ (Fully-specified)
+LOG: Appbase = file:///C:/Users/Jamal/Desktop/Project Azure Emulator 0190/Azure Source/Azure/bin/Debug/x64/
+LOG: oorspronkelijk PrivatePath = NULL
+Aanroep-assembly : Azure.Emulator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: deze binding begint in default-laadcontext.
+LOG: toepassingsconfiguratiebestand dat wordt gebruikt: C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\bin\Debug\x64\Azure.Emulator.vshost.exe.Config
+LOG: hostconfiguratiebestand wordt gebruikt: 
+LOG: computerconfiguratiebestand van C:\Windows\Microsoft.NET\Framework64\v4.0.30319\config\machine.config wordt gebruikt.
+LOG: verwijzing na beleid: MySql.Data, Version=6.9.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d
+LOG: deze binding is eerder aangetroffen en deze is mislukt met hr = 0x80070002.
+
+
+
+SYSTEM CRITICAL EXCEPTION: System.IO.FileNotFoundException: Kan bestand of assembly MySql.Data, Version=6.9.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d of een van de afhankelijkheden hiervan niet laden. Het systeem kan het opgegeven bestand niet vinden.
+Bestandsnaam: MySql.Data, Version=6.9.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d
+   bij Azure.Azure.Initialize()
+   bij Azure.Program.InitEnvironment() in c:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Emulator\Program.cs:regel 75
+   bij Azure.Program.StartEverything() in c:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Emulator\Program.cs:regel 171
+   bij Azure.Program.Main(String[] args) in c:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Emulator\Program.cs:regel 44
+   bij System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   bij System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   bij Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   bij System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   bij System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   bij System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   bij System.Threading.ThreadHelper.ThreadStart()
+
+=== Statusinformatie voorafgaand aan binding ===
+LOG: DisplayName = MySql.Data, Version=6.9.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d
+ (Fully-specified)
+LOG: Appbase = file:///C:/Users/Jamal/Desktop/Project Azure Emulator 0190/Azure Source/Azure/bin/Debug/x64/
+LOG: oorspronkelijk PrivatePath = NULL
+Aanroep-assembly : Azure.Emulator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: deze binding begint in default-laadcontext.
+LOG: toepassingsconfiguratiebestand dat wordt gebruikt: C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\bin\Debug\x64\Azure.Emulator.vshost.exe.Config
+LOG: hostconfiguratiebestand wordt gebruikt: 
+LOG: computerconfiguratiebestand van C:\Windows\Microsoft.NET\Framework64\v4.0.30319\config\machine.config wordt gebruikt.
+LOG: verwijzing na beleid: MySql.Data, Version=6.9.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d
+LOG: deze binding is eerder aangetroffen en deze is mislukt met hr = 0x80070002.
+
+
+
+SYSTEM CRITICAL EXCEPTION: System.IO.FileNotFoundException: Kan bestand of assembly MySql.Data, Version=6.9.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d of een van de afhankelijkheden hiervan niet laden. Het systeem kan het opgegeven bestand niet vinden.
+Bestandsnaam: MySql.Data, Version=6.9.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d
+   bij Azure.Azure.Initialize()
+   bij Azure.Program.InitEnvironment() in c:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Emulator\Program.cs:regel 75
+   bij Azure.Program.StartEverything() in c:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Emulator\Program.cs:regel 171
+   bij Azure.Program.Main(String[] args) in c:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Emulator\Program.cs:regel 44
+   bij System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   bij System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   bij Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   bij System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   bij System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   bij System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   bij System.Threading.ThreadHelper.ThreadStart()
+
+=== Statusinformatie voorafgaand aan binding ===
+LOG: DisplayName = MySql.Data, Version=6.9.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d
+ (Fully-specified)
+LOG: Appbase = file:///C:/Users/Jamal/Desktop/Project Azure Emulator 0190/Azure Source/Azure/bin/Debug/x64/
+LOG: oorspronkelijk PrivatePath = NULL
+Aanroep-assembly : Azure.Emulator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: deze binding begint in default-laadcontext.
+LOG: toepassingsconfiguratiebestand dat wordt gebruikt: C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\bin\Debug\x64\Azure.Emulator.vshost.exe.Config
+LOG: hostconfiguratiebestand wordt gebruikt: 
+LOG: computerconfiguratiebestand van C:\Windows\Microsoft.NET\Framework64\v4.0.30319\config\machine.config wordt gebruikt.
+LOG: verwijzing na beleid: MySql.Data, Version=6.9.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d
+LOG: deze binding is eerder aangetroffen en deze is mislukt met hr = 0x80070002.
+
+

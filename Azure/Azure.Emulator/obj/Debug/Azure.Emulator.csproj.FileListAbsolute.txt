@@ -1,0 +1,28 @@
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\bin\Debug\AnyCPU\Azure.Emulator.exe.config
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\bin\Debug\AnyCPU\Azure.Emulator.exe
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\bin\Debug\AnyCPU\Azure.Emulator.pdb
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Emulator\obj\Debug\Azure.Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Emulator\obj\Debug\Azure.Emulator.exe
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Emulator\obj\Debug\Azure.Emulator.pdb
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\bin\Debug\x64\Azure.Emulator.exe.config
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\bin\Debug\x64\Azure.Emulator.exe
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\bin\Debug\x64\Azure.Emulator.pdb
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\bin\Debug\x86\Azure.Emulator.exe.config
+H:\Emuladores\Blue Team\Project Azure Emulator 0190\Azure Source\Azure\bin\Debug\AnyCPU\Azure.Emulator.exe.config
+H:\Emuladores\Blue Team\Project Azure Emulator 0190\Azure Source\Azure\Azure.Emulator\obj\Debug\Azure.Emulator.exe
+H:\Emuladores\Blue Team\Project Azure Emulator 0190\Azure Source\Azure\Azure.Emulator\obj\Debug\Azure.Emulator.pdb
+H:\Emuladores\Blue Team\Project Azure Emulator 0190\Azure Source\Azure\Azure.Emulator\obj\Debug\Azure.Emulator.csprojResolveAssemblyReference.cache
+H:\Emuladores\Blue Team\Project Azure Emulator 0190\Azure Source\Azure\bin\Debug\AnyCPU\Azure.Emulator.exe
+H:\Emuladores\Blue Team\Project Azure Emulator 0190\Azure Source\Azure\bin\Debug\AnyCPU\Azure.Emulator.pdb
+H:\KM\Project Azure Emulator 0190\Azure Source\Azure\bin\Debug\AnyCPU\Azure.Emulator.exe.config
+H:\KM\Project Azure Emulator 0190\Azure Source\Azure\Azure.Emulator\obj\Debug\Azure.Emulator.exe
+H:\KM\Project Azure Emulator 0190\Azure Source\Azure\Azure.Emulator\obj\Debug\Azure.Emulator.pdb
+H:\KM\Project Azure Emulator 0190\Azure Source\Azure\Azure.Emulator\obj\Debug\Azure.Emulator.csprojResolveAssemblyReference.cache
+H:\KM\Project Azure Emulator 0190\Azure Source\Azure\bin\Debug\AnyCPU\Azure.Emulator.exe
+H:\KM\Project Azure Emulator 0190\Azure Source\Azure\bin\Debug\AnyCPU\Azure.Emulator.pdb
+C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\bin\Debug\AnyCPU\Azure.Emulator.exe.config
+C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Emulator\obj\Debug\Azure.Emulator.exe
+C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Emulator\obj\Debug\Azure.Emulator.pdb
+C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Emulator\obj\Debug\Azure.Emulator.csprojResolveAssemblyReference.cache
+C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\bin\Debug\AnyCPU\Azure.Emulator.exe
+C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\bin\Debug\AnyCPU\Azure.Emulator.pdb

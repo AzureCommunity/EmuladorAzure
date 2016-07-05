@@ -1,0 +1,21 @@
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Database\bin\Debug\Azure.Database.dll
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Database\bin\Debug\Azure.Database.pdb
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Database\bin\Debug\Azure.Console.dll
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Database\bin\Debug\Azure.Console.pdb
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Database\obj\Debug\Azure.Database.csprojResolveAssemblyReference.cache
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Database\obj\Debug\Azure.Database.dll
+C:\Users\Jamal\Desktop\Project Azure Emulator 0190\Azure Source\Azure\Azure.Database\obj\Debug\Azure.Database.pdb
+H:\Emuladores\Blue Team\Project Azure Emulator 0190\Azure Source\Azure\Azure.Database\bin\Debug\Azure.Database.dll
+H:\Emuladores\Blue Team\Project Azure Emulator 0190\Azure Source\Azure\Azure.Database\bin\Debug\Azure.Database.pdb
+H:\Emuladores\Blue Team\Project Azure Emulator 0190\Azure Source\Azure\Azure.Database\bin\Debug\Azure.Console.dll
+H:\Emuladores\Blue Team\Project Azure Emulator 0190\Azure Source\Azure\Azure.Database\bin\Debug\Azure.Console.pdb
+H:\Emuladores\Blue Team\Project Azure Emulator 0190\Azure Source\Azure\Azure.Database\obj\Debug\Azure.Database.csprojResolveAssemblyReference.cache
+H:\Emuladores\Blue Team\Project Azure Emulator 0190\Azure Source\Azure\Azure.Database\obj\Debug\Azure.Database.dll
+H:\Emuladores\Blue Team\Project Azure Emulator 0190\Azure Source\Azure\Azure.Database\obj\Debug\Azure.Database.pdb
+C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Database\bin\Debug\Azure.Database.dll
+C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Database\bin\Debug\Azure.Database.pdb
+C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Database\bin\Debug\Azure.Console.dll
+C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Database\bin\Debug\Azure.Console.pdb
+C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Database\obj\Debug\Azure.Database.csprojResolveAssemblyReference.cache
+C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Database\obj\Debug\Azure.Database.dll
+C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Database\obj\Debug\Azure.Database.pdb

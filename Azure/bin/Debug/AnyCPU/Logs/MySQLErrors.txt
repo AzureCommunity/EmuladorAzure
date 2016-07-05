@@ -1,0 +1,43 @@
+
+Error en query: 
+SELECT * FROM catalog_items ORDER BY order_num ASC
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'order_num' in 'order clause'
+   en MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   en MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   en MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   en MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   en MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   en System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   en Azure.Database.Manager.Database.Session_Details.QueryAdapter.GetTable()
+
+
+Error en query: 
+UPDATE users_stats SET online_seconds = online_seconds + 51 WHERE id = 2
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'online_seconds' in 'field list'
+   en MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   en MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   en MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   en MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   en MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   en Azure.Database.Manager.Database.Session_Details.QueryAdapter.RunQuery()
+
+
+Error en query: 
+UPDATE users_stats SET online_seconds = online_seconds + 2 WHERE id = 1
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'online_seconds' in 'field list'
+   en MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   en MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   en MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   en MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   en MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   en Azure.Database.Manager.Database.Session_Details.QueryAdapter.RunQuery()
+

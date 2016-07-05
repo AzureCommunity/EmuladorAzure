@@ -1,0 +1,2 @@
+Bienvenido al hotel %username%
+¡Este hotel esta en estado ALFA!
