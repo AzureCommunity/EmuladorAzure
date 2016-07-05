@@ -4,7 +4,11 @@
 
 # Azure Emulator
 
-Emulador necesario para correr Habbo en servidores externos
+### Tareas:
+ 
+  - [ ] Traducción 100% Back-End
+  - [ ] Traducción 100% Front-End
+  - [ ] Agregar imagen a `about.cs`
 
 # Requisitos
   
@@ -12,7 +16,7 @@ Emulador necesario para correr Habbo en servidores externos
   
   -Plugin GitHub para Visual Estudio (https://visualstudio.github.com/)
   
-  -En cada Commit se tiene que poner los cambios realizados a grandes rasgos Ejemplo: "Traduccion"
+  -En cada Commit se tiene que poner los cambios realizados a grandes rasgos Ejemplo: "Traducción"
   
   -Antes de cada Commit se tiene que ver si el emulador compila
 
