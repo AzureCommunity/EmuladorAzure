@@ -47,8 +47,8 @@ namespace Azure.HabboHotel.Commands.List
              * Nombres de desarrolladores
              */
             info.AppendFormat("<b>Developers</b>");
-            info.AppendFormat("-DmACK (Franco Sanllehi)")
-            info.AppendFormat("<br />")
+            info.AppendFormat("-DmACK (Franco Sanllehi)");
+            info.AppendFormat("<br />");
             info.Append("<br />");
             info.Append("<br />");
             info.Append("<br />");
