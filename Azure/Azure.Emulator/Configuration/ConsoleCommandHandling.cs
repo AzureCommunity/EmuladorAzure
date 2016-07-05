@@ -51,7 +51,7 @@ namespace Azure.Configuration
                 {
                     case "shutdown":
                     case "close":
-                    case "apagar":
+                    case "apagar": // Apagamos el Emu
                     case "desligar":
                         Logging.DisablePrimaryWriting(true);
                         Out.WriteLine("Shutdown Initalized", "Azure.Life", ConsoleColor.DarkYellow);
@@ -67,7 +67,7 @@ namespace Azure.Configuration
                         Console.WriteLine();
                         return;
 
-                    case "xdrwashere":
+                    case "GamerLive":
                         int width, height;
                         int[] y;
 
@@ -104,13 +104,13 @@ namespace Azure.Configuration
                     case "flush":
                     case "reload":
                     case "atualizar":
-                    case "refrescar":
+                    case "recargar":
                         if (strArray.Length >= 2) break;
-                        Console.WriteLine("Please specify parameter. Type 'help' to know more about Console Commands");
+                        Console.WriteLine("Especifica un parametro. escribe 'help' o 'ayuda' para saber mas sobre los comandos de consola");
                         Console.WriteLine();
                         return;
 
-                    case "alert":
+                    case "alerta":
                         {
                             var str = inputData.Substring(6);
                             var message = new ServerMessage(LibraryParser.OutgoingRequest("BroadcastNotifMessageComposer"));
@@ -125,15 +125,28 @@ namespace Azure.Configuration
                         return;
 
                     case "help":
-                        Console.WriteLine("shutdown/close - for safe shutting down AzureEmulator");
-                        Console.WriteLine("clear - Clear all text");
-                        Console.WriteLine("alert (msg) - send alert to Every1!");
-                        Console.WriteLine("flush/reload");
-                        Console.WriteLine("   - catalog");
+                        Console.WriteLine("apagar       - Para Apagar el emulador");
+                        Console.WriteLine("clear        - Para limpiar texto del emulador");
+                        Console.WriteLine("alerta (msg) - Para enviar mensaje a todo el Hotel");
+                        Console.WriteLine("recargar");
+                        Console.WriteLine("   - catalogo");
                         Console.WriteLine("   - modeldata");
                         Console.WriteLine("   - bans");
                         Console.WriteLine("   - packets (reload packets ids)");
-                        Console.WriteLine("   - filter");
+                        Console.WriteLine("   - Filtro");
+                        Console.WriteLine();
+                        return;
+
+                    case "ayuda":
+                        Console.WriteLine("apagar       - Para Apagar el emulador");
+                        Console.WriteLine("clear        - Para limpiar texto del emulador");
+                        Console.WriteLine("alerta (msg) - Para enviar mensaje a todo el Hotel");
+                        Console.WriteLine("recargar");
+                        Console.WriteLine("   - catalogo");
+                        Console.WriteLine("   - modeldata");
+                        Console.WriteLine("   - bans");
+                        Console.WriteLine("   - packets (reload packets ids)");
+                        Console.WriteLine("   - Filtro");
                         Console.WriteLine();
                         return;
 
@@ -151,7 +164,7 @@ namespace Azure.Configuration
 
                     case "packets":
                         LibraryParser.ReloadDictionarys();
-                        Console.WriteLine("> Packets Reloaded Suceffuly...");
+                        Console.WriteLine("> Packets recargados...");
                         Console.WriteLine();
                         return;
 
@@ -166,25 +179,26 @@ namespace Azure.Configuration
                             .GetClientManager()
                             .QueueBroadcaseMessage(
                                 new ServerMessage(LibraryParser.OutgoingRequest("PublishShopMessageComposer")));
-                        Console.WriteLine("Catalogue was re-loaded.");
+                        Console.WriteLine("Catalogo recargado.");
                         Console.WriteLine();
                         break;
 
                     case "modeldata":
                         using (var adapter2 = Azure.GetDatabaseManager().GetQueryReactor()) GetGame().GetRoomManager().LoadModels(adapter2);
-                        Console.WriteLine("Room models were re-loaded.");
+                        Console.WriteLine("Modelos de sala recargados.");
                         Console.WriteLine();
                         break;
 
                     case "bans":
                         using (var adapter3 = Azure.GetDatabaseManager().GetQueryReactor()) GetGame().GetBanManager().LoadBans(adapter3);
-                        Console.WriteLine("Bans were re-loaded");
+                        Console.WriteLine("Baneos recargados");
                         Console.WriteLine();
                         break;
 
-                    case "filter":
+                    case "filtro":
                         Security.Filter.Reload();
                         Security.BlackWordsManager.Reload();
+                        Console.WriteLine("Filtro de malas palabras recargado");
                         break;
 
                     default:
