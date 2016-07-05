@@ -19,3 +19,10 @@ C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Database\bin\
 C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Database\obj\Debug\Azure.Database.csprojResolveAssemblyReference.cache
 C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Database\obj\Debug\Azure.Database.dll
 C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Database\obj\Debug\Azure.Database.pdb
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Database\bin\Debug\Azure.Database.dll
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Database\bin\Debug\Azure.Database.pdb
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Database\bin\Debug\Azure.Console.dll
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Database\bin\Debug\Azure.Console.pdb
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Database\obj\Debug\Azure.Database.csprojResolveAssemblyReference.cache
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Database\obj\Debug\Azure.Database.dll
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Database\obj\Debug\Azure.Database.pdb

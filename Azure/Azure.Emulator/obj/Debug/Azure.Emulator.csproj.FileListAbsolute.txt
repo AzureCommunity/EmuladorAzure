@@ -26,3 +26,9 @@ C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Emulator\obj\
 C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Emulator\obj\Debug\Azure.Emulator.csprojResolveAssemblyReference.cache
 C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\bin\Debug\AnyCPU\Azure.Emulator.exe
 C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\bin\Debug\AnyCPU\Azure.Emulator.pdb
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\bin\Debug\AnyCPU\Azure.Emulator.exe.config
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\bin\Debug\AnyCPU\Azure.Emulator.exe
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\bin\Debug\AnyCPU\Azure.Emulator.pdb
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Emulator\obj\Debug\Azure.Emulator.csprojResolveAssemblyReference.cache
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Emulator\obj\Debug\Azure.Emulator.exe
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Emulator\obj\Debug\Azure.Emulator.pdb
