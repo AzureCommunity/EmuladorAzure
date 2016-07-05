@@ -171,7 +171,7 @@ namespace Azure.HabboHotel
         internal Game(int conns)
         {
             Console.WriteLine();
-            Out.WriteLine(@"Starting up Azure Emulator for " + Environment.MachineName + "...", @"Azure.Boot");
+            Out.WriteLine(@"Iniciando emulador azure para " + Environment.MachineName + "...", @"Emulador.Boot");
             Console.WriteLine();
 
             _clientManager = new GameClientManager();
@@ -186,98 +186,98 @@ namespace Azure.HabboHotel
                 uint achievementLoaded;
                 uint pollLoaded;
 
-                Progress(bar, wait, end, "Loading Bans...");
+                Progress(bar, wait, end, "Cargando Bans...");
                 _banManager = new ModerationBanManager();
                 _banManager.LoadBans(queryReactor);
 
-                Progress(bar, wait, end, "Loading Roles...");
+                Progress(bar, wait, end, "Cargando Roles...");
                 _roleManager = new RoleManager();
                 _roleManager.LoadRights(queryReactor);
 
-                Progress(bar, wait, end, "Loading Items...");
+                Progress(bar, wait, end, "Cargando Items...");
                 _itemManager = new ItemManager();
                 _itemManager.LoadItems(queryReactor, out itemsLoaded);
 
-                Progress(bar, wait, end, "Loading Catalog...");
+                Progress(bar, wait, end, "Cargando Catalog...");
                 _catalog = new Catalog();
 
-                Progress(bar, wait, end, "Loading Targeted Offers...");
+                Progress(bar, wait, end, "Cargando Ofertas...");
                 _targetedOfferManager = new TargetedOfferManager();
 
-                Progress(bar, wait, end, "Loading Clothing...");
+                Progress(bar, wait, end, "Cargando Ropa...");
                 _clothingManager = new ClothingManager();
                 _clothingManager.Initialize(queryReactor);
 
-                Progress(bar, wait, end, "Loading Rooms...");
+                Progress(bar, wait, end, "Cargando Salas...");
                 _roomManager = new RoomManager();
                 _roomManager.LoadModels(queryReactor, out roomModelLoaded);
 
-                Progress(bar, wait, end, "Loading Navigator...");
+                Progress(bar, wait, end, "Cargando Navegador...");
                 _navigator = new Navigator();
                 _navigator.Initialize(queryReactor, out navigatorLoaded);
 
-                Progress(bar, wait, end, "Loading Groups...");
+                Progress(bar, wait, end, "Cargando Grupos...");
                 _groupManager = new GroupManager();
                 _groupManager.InitGroups();
 
                 _globalInventory = new InventoryGlobal();
 
-                Progress(bar, wait, end, "Loading PixelManager...");
+                Progress(bar, wait, end, "Cargando PixelManager...");
                 _pixelManager = new CoinsManager();
 
-                Progress(bar, wait, end, "Loading HotelView...");
+                Progress(bar, wait, end, "Cargando Hotel View...");
                 _hotelView = new HotelView();
 
-                Progress(bar, wait, end, "Loading Hall Of Fame...");
+                Progress(bar, wait, end, "Cargando Sala de la fama...");
                 _hallOfFame = new HallOfFame();
 
-                Progress(bar, wait, end, "Loading ModerationTool...");
+                Progress(bar, wait, end, "Cargando Herramienta de moderacion...");
                 _moderationTool = new ModerationTool();
                 _moderationTool.LoadMessagePresets(queryReactor);
                 _moderationTool.LoadPendingTickets(queryReactor);
 
-                Progress(bar, wait, end, "Loading Bots...");
+                Progress(bar, wait, end, "Cargando Bots...");
                 _botManager = new BotManager();
 
-                Progress(bar, wait, end, "Loading Quests...");
+                Progress(bar, wait, end, "Cargando Quests...");
                 _questManager = new QuestManager();
                 _questManager.Initialize(queryReactor);
 
-                Progress(bar, wait, end, "Loading Events...");
+                Progress(bar, wait, end, "Cargando Eventos...");
                 _events = new RoomEvents();
 
-                Progress(bar, wait, end, "Loading Ranks...");
+                Progress(bar, wait, end, "Cargando Rangos...");
                 _roomRankConfig = new RoomRankConfig();
                 _roomRankConfig.Initialize();
 
-                Progress(bar, wait, end, "Loading Talents...");
+                Progress(bar, wait, end, "Cargando Talentos...");
                 _talentManager = new TalentManager();
                 _talentManager.Initialize(queryReactor);
 
                 //this.SnowStormManager = new SnowStormManager();
 
-                Progress(bar, wait, end, "Loading Pinata...");
+                Progress(bar, wait, end, "Cargando Pinata...");
                 _pinataHandler = new PinataHandler();
                 _pinataHandler.Initialize(queryReactor);
 
-                Progress(bar, wait, end, "Loading Crackable Eggs...");
+                Progress(bar, wait, end, "Cargando Huevo Rompible...");
                 _crackableEggHandler = new CrackableEggHandler();
                 _crackableEggHandler.Initialize(queryReactor);
 
-                Progress(bar, wait, end, "Loading Polls...");
+                Progress(bar, wait, end, "Cargando Polls...");
                 _pollManager = new PollManager();
                 _pollManager.Init(queryReactor, out pollLoaded);
 
-                Progress(bar, wait, end, "Loading Achievements...");
+                Progress(bar, wait, end, "Cargando Logros...");
                 _achievementManager = new AchievementManager(queryReactor, out achievementLoaded);
 
-                Progress(bar, wait, end, "Loading StaticMessages ...");
+                Progress(bar, wait, end, "Cargando Mensajes Estaticos...");
                 StaticMessagesManager.Load();
 
-                Progress(bar, wait, end, "Loading Guides ...");
+                Progress(bar, wait, end, "Cargando Guias...");
                 _guideManager = new GuideManager();
 
-                Progress(bar, wait, end, "Loading and Registering Commands...");
+                Progress(bar, wait, end, "Cargando y registrando comandos...");
                 CommandsManager.Register();
 
                 Manager.Cache.StartProcess();
