@@ -245,7 +245,7 @@ namespace Azure
         {
             #region Precheck
 
-            Console.Title = "Azure Emulator | Loading [...]";
+            Console.Title = "Azure Emulator | Cargando [...]";
             ServerStarted = DateTime.Now;
             _defaultEncoding = Encoding.Default;
 
@@ -315,8 +315,8 @@ namespace Azure
                     foreach (var item in plugins.Where(item => item != null))
                     {
                         _plugins.Add(item.plugin_name, item);
-                        Out.WriteLine("Loaded Plugin: " + item.plugin_name + " Version: " + item.plugin_version,
-                            "Azure.Plugins", ConsoleColor.DarkBlue);
+                        Out.WriteLine("Plugins Cargados: " + item.plugin_name + " Version: " + item.plugin_version,
+                            "Emulador.Plugins", ConsoleColor.DarkBlue);
                     }
                 }
 
@@ -338,7 +338,7 @@ namespace Azure
 
                 ServerLanguage = (Convert.ToString(ConfigurationData.Data["system.lang"]));
                 _languages = new Languages(ServerLanguage);
-                Out.WriteLine("Loaded " + _languages.Count() + " Languages Vars", "Azure.Lang");
+                Out.WriteLine("Cargados " + _languages.Count() + " Vars de Lang", "Emulador.Lang");
 
                 #endregion Languages Parser
 
@@ -369,8 +369,8 @@ namespace Azure
                     Handler.Initialize(LibraryParser.Config["Crypto.RSA.N"], LibraryParser.Config["Crypto.RSA.D"],
                         LibraryParser.Config["Crypto.RSA.E"]);
 
-                    Out.WriteLine("Started RSA crypto service",
-                        "Azure.Crypto");
+                    Out.WriteLine("Servicio RSA Crypto Iniciado",
+                        "Emulador.Crypto");
                 }
                 else
                     Out.WriteLine("The encryption system is disabled. This affects badly to the safety.",
@@ -379,14 +379,14 @@ namespace Azure
                 Console.WriteLine();
 
                 Out.WriteLine(
-                    "Starting up asynchronous sockets server for game connections for port " +
+                    "Iniciando con puerto Game: " +
                     int.Parse(ConfigurationData.Data["game.tcp.port"]), "Server.AsyncSocketListener");
 
                 _connectionManager.Init();
                 _connectionManager.Start();
 
                 Out.WriteLine(
-                    "Asynchronous sockets server for game connections running on port " +
+                    "Juego inicado puerto Game: " +
                     int.Parse(ConfigurationData.Data["game.tcp.port"]) + Environment.NewLine,
                     "Server.AsyncSocketListener");
 
@@ -415,7 +415,7 @@ namespace Azure
                     ConfigurationData.Data["SeparatedTasksInGameClientManager.enabled"] == "true") SeparatedTasksInGameClientManager = true;
                 if (ConfigurationData.Data.ContainsKey("Debug")) if (ConfigurationData.Data["Debug"] == "true") DebugMode = true;
 
-                Out.WriteLine("Azure Emulator ready. Status: idle", "Azure.Boot");
+                Out.WriteLine("Emulador Iniciado. Estado: idle", "Emulador.Boot");
                 IsLive = true;
             }
             catch (Exception e)
@@ -726,14 +726,14 @@ namespace Azure
             serverMessage.AppendString("disconnection");
             serverMessage.AppendInteger(2);
             serverMessage.AppendString("title");
-            serverMessage.AppendString("HEY EVERYONE!");
+            serverMessage.AppendString("¡Hola a todos!");
             serverMessage.AppendString("message");
             serverMessage.AppendString(
                 restart
                     ? "<b>The hotel is shutting down for a break.<)/b>\nYou may come back later.\r\n<b>So long!</b>"
-                    : "<b>The hotel is shutting down for a break.</b><br />You may come back soon. Don't worry, everything's going to be saved..<br /><b>So long!</b>\r\n~ This session was powered by AzureEmulator");
+                    : "<b>The hotel is shutting down for a break.</b><br />You may come back soon. Don't worry, everything's going to be saved..<br /><b>So long!</b>\r\n~ Este servidor usa Azure Emulator EDIT");
             GetGame().GetClientManager().QueueBroadcaseMessage(serverMessage);
-            Console.Title = "Azure Emulator | Shutting down...";
+            Console.Title = "Emulador Azure | Apagando...";
 
             _game.StopGameLoop();
             _game.GetRoomManager().RemoveAllRooms();
@@ -765,11 +765,11 @@ namespace Azure
             var span = DateTime.Now - now;
             Out.WriteLine("Elapsed " + TimeSpanToString(span) + "ms on Shutdown Proccess", "Azure.Life",
                 ConsoleColor.DarkYellow);
-            if (!restart) Out.WriteLine("Shutdown Completed. Press Any Key to Continue...", string.Empty, ConsoleColor.DarkRed);
+            if (!restart) Out.WriteLine("Apagado completo. Presione cualquier tecla para continuar...", string.Empty, ConsoleColor.DarkRed);
             if (!restart) Console.ReadKey();
             IsLive = false;
             if (restart) Process.Start(Assembly.GetEntryAssembly().Location);
-            Console.WriteLine("Closing...");
+            Console.WriteLine("Cerrar...");
             Environment.Exit(0);
         }
 

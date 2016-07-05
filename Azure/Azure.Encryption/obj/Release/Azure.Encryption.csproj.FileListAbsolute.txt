@@ -1,0 +1,4 @@
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Encryption\bin\Release\Azure.Encryption.dll
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Encryption\bin\Release\Azure.Encryption.pdb
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Encryption\obj\Release\Azure.Encryption.dll
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Encryption\obj\Release\Azure.Encryption.pdb

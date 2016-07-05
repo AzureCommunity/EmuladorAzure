@@ -13,3 +13,8 @@ C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Astar\bin\Deb
 C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Astar\obj\Debug\Azure.AStar.csprojResolveAssemblyReference.cache
 C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Astar\obj\Debug\Azure.AStar.dll
 C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Astar\obj\Debug\Azure.AStar.pdb
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Astar\bin\Debug\Azure.AStar.dll
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Astar\bin\Debug\Azure.AStar.pdb
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Astar\obj\Debug\Azure.AStar.csprojResolveAssemblyReference.cache
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Astar\obj\Debug\Azure.AStar.dll
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Astar\obj\Debug\Azure.AStar.pdb

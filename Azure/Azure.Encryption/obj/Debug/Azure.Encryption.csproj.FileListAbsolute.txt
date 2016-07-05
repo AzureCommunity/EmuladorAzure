@@ -13,3 +13,8 @@ C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Encryption\bi
 C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Encryption\obj\Debug\Azure.Encryption.csprojResolveAssemblyReference.cache
 C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Encryption\obj\Debug\Azure.Encryption.dll
 C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Encryption\obj\Debug\Azure.Encryption.pdb
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Encryption\bin\Debug\Azure.Encryption.dll
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Encryption\bin\Debug\Azure.Encryption.pdb
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Encryption\obj\Debug\Azure.Encryption.csprojResolveAssemblyReference.cache
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Encryption\obj\Debug\Azure.Encryption.dll
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Encryption\obj\Debug\Azure.Encryption.pdb

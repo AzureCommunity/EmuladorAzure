@@ -13,3 +13,8 @@ C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Collections\b
 C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Collections\obj\Debug\Azure.Collections.csprojResolveAssemblyReference.cache
 C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Collections\obj\Debug\Azure.Collections.dll
 C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Collections\obj\Debug\Azure.Collections.pdb
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Collections\bin\Debug\Azure.Collections.dll
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Collections\bin\Debug\Azure.Collections.pdb
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Collections\obj\Debug\Azure.Collections.csprojResolveAssemblyReference.cache
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Collections\obj\Debug\Azure.Collections.dll
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Collections\obj\Debug\Azure.Collections.pdb

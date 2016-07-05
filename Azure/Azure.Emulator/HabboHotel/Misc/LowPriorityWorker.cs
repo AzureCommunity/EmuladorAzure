@@ -56,9 +56,9 @@ namespace Azure.HabboHotel.Misc
                 var loadedRoomsCount = Azure.GetGame().GetRoomManager().LoadedRoomsCount;
                 var dateTime = new DateTime((DateTime.Now - Azure.ServerStarted).Ticks);
 
-                Console.Title = string.Concat("AzureEmulator v" + Azure.Version + "." + Azure.Build + " | TIME: ",
-                    int.Parse(dateTime.ToString("dd")) - 1 + dateTime.ToString(":HH:mm:ss"), " | ONLINE COUNT: ",
-                    clientCount, " | ROOM COUNT: ", loadedRoomsCount);
+                Console.Title = string.Concat("Emulador Azure v" + Azure.Version + "." + Azure.Build + " | Uptime: ",
+                    int.Parse(dateTime.ToString("dd")) - 1 + dateTime.ToString(":HH:mm:ss"), " | Jugadores Online: ",
+                    clientCount, " | Salas: ", loadedRoomsCount);
                 using (var queryReactor = Azure.GetDatabaseManager().GetQueryReactor())
                 {
                     if (clientCount > _userPeak)

@@ -1,0 +1,4 @@
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Collections\bin\Release\Azure.Collections.dll
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Collections\bin\Release\Azure.Collections.pdb
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Collections\obj\Release\Azure.Collections.dll
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Collections\obj\Release\Azure.Collections.pdb

@@ -1,0 +1,6 @@
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\bin\Release\AnyCPU\Azure.Emulator.exe.config
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\bin\Release\AnyCPU\Azure.Emulator.exe
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\bin\Release\AnyCPU\Azure.Emulator.pdb
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Emulator\obj\Release\Azure.Emulator.csprojResolveAssemblyReference.cache
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Emulator\obj\Release\Azure.Emulator.exe
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Emulator\obj\Release\Azure.Emulator.pdb

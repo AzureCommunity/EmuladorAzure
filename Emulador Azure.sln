@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure.AStar", "Azure\Azure.Astar\Azure.AStar.csproj", "{EE38464B-D381-40CF-B399-FFFA87B1421F}"
 EndProject
@@ -49,6 +49,7 @@ Global
 		Release|Any CPU = Release|Any CPU
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
+		Description = Emulador editado para GamerLive.cL
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{EE38464B-D381-40CF-B399-FFFA87B1421F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU

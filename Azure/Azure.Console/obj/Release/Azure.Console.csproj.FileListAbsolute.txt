@@ -1,0 +1,4 @@
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Console\bin\Release\Azure.Console.dll
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Console\bin\Release\Azure.Console.pdb
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Console\obj\Release\Azure.Console.dll
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Console\obj\Release\Azure.Console.pdb

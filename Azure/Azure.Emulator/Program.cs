@@ -52,7 +52,7 @@ namespace Azure
                 {
                     Console.ForegroundColor = ConsoleColor.DarkBlue;
                     Console.WriteLine();
-                    Console.Write("{0}@azure> ", username);
+                    Console.Write("{0}@Emulador> ", username);
                     Console.WriteLine();
                     Console.ForegroundColor = ConsoleColor.Black;
                 }
@@ -181,19 +181,12 @@ namespace Azure
             Console.SetCursorPosition(0, 0);
             Console.ForegroundColor = ConsoleColor.Black;
             Console.WriteLine();
-            Console.WriteLine(@"     " + @"                                            |         |              ");
-            Console.WriteLine(@"     " + @",---.,---,.   .,---.,---.    ,---.,-.-..   .|    ,---.|--- ,---.,---.");
-            Console.WriteLine(@"     " + @",---| .-' |   ||    |---'    |---'| | ||   ||    ,---||    |   ||    ");
-            Console.WriteLine(@"     " + @"`---^'---'`---'`    `---'    `---'` ' '`---'`---'`---^`---'`---'`    Azure Group");
-            Console.WriteLine(@"     " + @" Emulador editado por Franco Sanllehi para GamerLive.cL              ");
-            Console.WriteLine(@"     " + @"  BUILD " + Azure.Version + "." + Azure.Build +
-            " RELEASE 63B CRYPTO BOTH SIDE");
-            Console.WriteLine(@"     " + @"  .NET Framework 4.6     C# 6 Roslyn");
-            Console.WriteLine(@"     " + @"  Boris, Claudio, Jamal, Antoine");
+            Console.WriteLine(@"     " + @" Emulador Azure V0.1");
+            Console.WriteLine(@"     " + @" Emulador editado por Franco Sanllehi para GamerLive.cL");
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine(@"     " + @"  azureweb.org");
+            Console.WriteLine(@"     " + @" Jaddo.tk");
             Console.WriteLine();
-            Console.WriteLine(@"     " + @"  Azure Fixeado!");
+            Console.WriteLine(@"     " + @"  ¡Emulador Fixeado!");
             Console.WriteLine();
             Console.WriteLine();
             Console.ForegroundColor = ConsoleColor.Black;

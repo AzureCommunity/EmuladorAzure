@@ -13,3 +13,8 @@ C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Enclosure\bin
 C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Enclosure\obj\Debug\Azure.Enclosure.csprojResolveAssemblyReference.cache
 C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Enclosure\obj\Debug\Azure.Enclosure.dll
 C:\Users\DmACK\Desktop\JosemyV4 32-64bits\Azure Source\Azure\Azure.Enclosure\obj\Debug\Azure.Enclosure.pdb
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Enclosure\bin\Debug\Azure.Enclosure.dll
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Enclosure\bin\Debug\Azure.Enclosure.pdb
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Enclosure\obj\Debug\Azure.Enclosure.csprojResolveAssemblyReference.cache
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Enclosure\obj\Debug\Azure.Enclosure.dll
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Enclosure\obj\Debug\Azure.Enclosure.pdb

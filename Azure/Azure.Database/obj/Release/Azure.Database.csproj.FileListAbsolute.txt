@@ -1,0 +1,7 @@
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Database\bin\Release\Azure.Database.dll
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Database\bin\Release\Azure.Database.pdb
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Database\bin\Release\Azure.Console.dll
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Database\bin\Release\Azure.Console.pdb
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Database\obj\Release\Azure.Database.csprojResolveAssemblyReference.cache
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Database\obj\Release\Azure.Database.dll
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Database\obj\Release\Azure.Database.pdb

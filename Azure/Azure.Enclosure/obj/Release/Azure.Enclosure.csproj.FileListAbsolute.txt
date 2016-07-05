@@ -1,0 +1,5 @@
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Enclosure\bin\Release\Azure.Enclosure.dll
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Enclosure\bin\Release\Azure.Enclosure.pdb
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Enclosure\obj\Release\Azure.Enclosure.csprojResolveAssemblyReference.cache
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Enclosure\obj\Release\Azure.Enclosure.dll
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Enclosure\obj\Release\Azure.Enclosure.pdb

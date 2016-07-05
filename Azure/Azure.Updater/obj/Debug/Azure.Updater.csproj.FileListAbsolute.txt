@@ -8,3 +8,8 @@ H:\KM\Project Azure Emulator 0190\Azure Source\Azure\Azure.Updater\bin\Debug\Azu
 H:\KM\Project Azure Emulator 0190\Azure Source\Azure\Azure.Updater\obj\Debug\Azure.Updater.csprojResolveAssemblyReference.cache
 H:\KM\Project Azure Emulator 0190\Azure Source\Azure\Azure.Updater\obj\Debug\Azure.Updater.dll
 H:\KM\Project Azure Emulator 0190\Azure Source\Azure\Azure.Updater\obj\Debug\Azure.Updater.pdb
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Updater\bin\Debug\Azure.Updater.dll
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Updater\bin\Debug\Azure.Updater.pdb
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Updater\obj\Debug\Azure.Updater.csprojResolveAssemblyReference.cache
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Updater\obj\Debug\Azure.Updater.dll
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Updater\obj\Debug\Azure.Updater.pdb

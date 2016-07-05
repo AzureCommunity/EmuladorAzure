@@ -1,0 +1,4 @@
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Astar\bin\Release\Azure.AStar.dll
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Astar\bin\Release\Azure.AStar.pdb
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Astar\obj\Release\Azure.AStar.dll
+C:\Users\DmACK\Source\Repos\EmuladorAzure\Azure\Azure.Astar\obj\Release\Azure.AStar.pdb
