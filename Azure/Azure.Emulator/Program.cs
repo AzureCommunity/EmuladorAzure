@@ -182,11 +182,11 @@ namespace Azure
             Console.ForegroundColor = ConsoleColor.Black;
             Console.WriteLine();
             Console.WriteLine(@"     " + @" Emulador Azure V0.1 ");
-            Console.WriteLine(@"     " + @" Emulador editado por Franco Sanllehi para GamerLive.cL");
+            Console.WriteLine(@"     " + @" Emulador editado para Open Source ");
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine(@"     " + @" Jaddo.tk");
+            Console.WriteLine(@"     " + @" OPEN SOURCE");
             Console.WriteLine();
-            Console.WriteLine(@"     " + @"  ¡Emulador Fixeado!");
+            Console.WriteLine(@"     " + @"  /|V1.0|\);
             Console.WriteLine();
             Console.WriteLine();
             Console.ForegroundColor = ConsoleColor.Black;
