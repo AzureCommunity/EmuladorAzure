@@ -33,7 +33,7 @@ namespace Azure.HabboHotel.Commands.List
             message.AppendString("Azure Emulator (V0.1)"); //Titulo
             message.AppendString("message");
             var info = new StringBuilder();
-            info.Append("<h5><b>Azure Emulator Editado por DmACK [Privado]</b><h5></br></br>");
+            info.Append("<h5><b></b><h5></br></br>");
             info.Append("<br />");
             info.Append("<br />");
             /*
