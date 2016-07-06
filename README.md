@@ -1,5 +1,5 @@
   <p align="center">
-    <img src ="https://servidores.gamerlive.cl/images/sampledata/logos/gamerlive_web_120.png" />
+    <img src ="https://raw.githubusercontent.com/DmACKGL/EmuladorAzure/master/Azure/Azure.Emulator/Favicon.ico" />
   </p>
 
 # Azure Emulator
