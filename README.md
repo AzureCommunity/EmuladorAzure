@@ -2,7 +2,7 @@
     <img src ="https://raw.githubusercontent.com/DmACKGL/EmuladorAzure/master/Azure/Azure.Emulator/Favicon.ico" />
   </p>
 
-# Azure Emulator
+# Azure Emulator Community Edition
 
 ### Tareas:
  
